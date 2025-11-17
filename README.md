@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Aishi Tran</h1>
-<h3 align="center">Learning to become a Software Tester (QA) 🇻🇳</h3>
+<h3 align="center">Learning to become a Software Tester (QA) </h3>
 
 ---
 
