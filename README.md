@@ -7,7 +7,7 @@
 - 🌱 I’m currently **learning to become a Manual Tester**
 - 📘 Topics I'm studying: Test Case • Test Scenario • Bug Report • Test Plan
 - 🧪 Tools I'm practicing with: Postman, SQL, Git, JMeter (basic)
-- 🎯 Goal: Nắm vững kỹ năng kiểm thử và trở thành QA Engineer trong tương lai
+- 🎯 Goal: Master testing skills and become a QA Engineer in the future.
 
 ---
 
