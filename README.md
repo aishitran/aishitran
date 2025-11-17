@@ -16,11 +16,11 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
-- Viết Test Case & Test Scenario  
-- Làm Bug Report bằng Jira / Excel  
-- Kiểm thử API cơ bản bằng Postman  
-- Viết truy vấn SQL đơn giản  
-- Hiểu về SDLC, STLC, Agile/Scrum  
+- Write Test Cases & Test Scenarios
+- Create Bug Reports using Jira / Excel
+- Perform basic API testing using Postman
+- Write simple SQL queries
+- Understand SDLC, STLC, Agile/Scrum
 
 ---
 
